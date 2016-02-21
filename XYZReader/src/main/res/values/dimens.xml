@@ -1,0 +1,46 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">22sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+
+    <dimen name="appbar_elevation">4dp</dimen>
+    <dimen name="toolbar_height">176dp</dimen>
+    <dimen name="toolbar_marginStart">48dp</dimen>
+    <dimen name="toolbar_marginEnd">64dp</dimen>
+    <dimen name="logo_paddingBottom">24dp</dimen>
+    <dimen name="logo_paddingLeft">48dp</dimen>
+    <dimen name="logo_paddingRight">48dp</dimen>
+
+    <dimen name="detail_toolbar_height">300dp</dimen>
+    <dimen name="detail_overlapTop">78dp</dimen>
+
+    <dimen name="list_paddingBottom">28dp</dimen>
+
+    <dimen name="detailContent_layoutMargin">8dp</dimen>
+    <dimen name="detailContent_paddingRight">16dp</dimen>
+    <dimen name="detailContent_paddingLeft">16dp</dimen>
+    <dimen name="detailContent_paddingBottom">16dp</dimen>
+    <dimen name="detailContent_cardElevation">4dp</dimen>
+    <dimen name="detailContent_cardCornerRadius">4dp</dimen>
+
+    <dimen name="listCard_layoutHeight">0dp</dimen>
+    <dimen name="cardTitle_paddingTop">16dp</dimen>
+    <dimen name="cardTitle_paddingBottom">4dp</dimen>
+    <dimen name="cardTitle_paddingLeft">16dp</dimen>
+    <dimen name="cardTitle_paddingRight">16dp</dimen>
+
+    <dimen name="cardSubtitle_paddingBottom">16dp</dimen>
+    <dimen name="cardSubtitle_paddingLeft">16dp</dimen>
+    <dimen name="cardSubtitle_paddingRight">16dp</dimen>
+
+    <dimen name="listCard_marginBottom">4dp</dimen>
+    <dimen name="listCard_marginTop">4dp</dimen>
+    <dimen name="listCard_marginLeft">4dp</dimen>
+    <dimen name="listCard_marginRight">4dp</dimen>
+    <dimen name="listCard_cornerRadius">6dp</dimen>
+</resources>
